@@ -1,2 +1,4 @@
 - [Accueil](index.md)
+- HistoricalMap
+  - historicalmap/*.md
 - *.md
