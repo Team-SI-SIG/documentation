@@ -1,4 +1,4 @@
-#### <<<<a href="https://github.com/lennepkade/HistoricalMap/wiki/Training">Before : Training</a>
+#### <<<<a href="https://team-si-sig.github.io/documentation/historicalmap/Training">Before : Training</a>
 # Classification
 ### What do you need ?
  - Your filtered image (got at step 1)

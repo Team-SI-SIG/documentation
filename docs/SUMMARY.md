@@ -1,7 +1,7 @@
 - [Accueil](index.md)
 - HistoricalMap
-    - [Home](historicalmap/Home.md)
-    - [Classification](historicalmap/Classification.md)
-    - [Filtering](historicalmap/Filtering.md)
-    - [Training](historicalmap/Training.md)
+    - [Home](historicalmap/en/Home.md)
+    - [Filtering](historicalmap/en/Filtering.md)
+    - [Training](historicalmap/en/Training.md)
+    - [Classification](historicalmap/en/Classification.md)
 - *.md
