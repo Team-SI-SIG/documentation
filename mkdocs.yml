@@ -23,6 +23,8 @@ theme:
 
 plugins:
   - search
+  - literate-nav:
+      nav_file: SUMMARY.md
 
 extra_javascript:
   - https://unpkg.com/mermaid@8.5.0/dist/mermaid.min.js
