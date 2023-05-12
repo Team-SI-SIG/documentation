@@ -1,4 +1,5 @@
 - [Accueil](index.md)
 - HistoricalMap
+  - [Home](historicalmap/Home.md)
   - historicalmap/*.md
 - *.md
