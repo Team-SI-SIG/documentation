@@ -50,4 +50,3 @@ markdown_extensions:
       # insert a blank space before the character
       permalink: " ¶"
   - smarty
-  - fontawesome_markdown
