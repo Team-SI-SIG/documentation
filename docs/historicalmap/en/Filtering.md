@@ -14,4 +14,4 @@ The image must be a geotiff (*.tif, *.tiff).
 <b>Median filter iteration</b> : you can specify how many times you want the script to perform the median filter. For exempla you may want the script to do 5 times the median filter to remove more noise. Here are an example : 
 <table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0"><tr><td><p><img src="https://github.com/Team-SI-SIG/HistoricalMap/raw/master/img/help/median1.png"/></p></td><td><p><img src="https://github.com/Team-SI-SIG/HistoricalMap/raw/master/img/help/median5.png"/></p></td></tr><tr><td><p>1 iteration</p></td><td><p>5 iterations</p></td></tr></table>
 
-#### >>>> <a href="https://team-si-sig.github.io/documentation/historicalmap/Training">Next part : Training</a>
+#### >>>> <a href="https://team-si-sig.github.io/documentation/historicalmap/en/Training">Next part : Training</a>

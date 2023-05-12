@@ -1,4 +1,4 @@
-#### <<<<a href="https://team-si-sig.github.io/documentation/historicalmap/Filtering">Before : Filtering your image</a>
+#### <<<<a href="https://team-si-sig.github.io/documentation/historicalmap/en/Filtering">Before : Filtering your image</a>
 
 ## What do you need for the training ?
 You just need two things :
@@ -28,4 +28,4 @@ Split is the amount of parcel used for the training. If you choose 0,5 it means 
 ### Seed
 The seed is used to compare the same parcel each time, so you can put the number you want in it and use it the next time if you want to compare the data.
 
-#### >>><a href="https://team-si-sig.github.io/documentation/historicalmap/Classification">After : Classification</a>
+#### >>><a href="https://team-si-sig.github.io/documentation/historicalmap/en/Classification">After : Classification</a>
