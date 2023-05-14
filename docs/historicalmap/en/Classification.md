@@ -1,4 +1,4 @@
-#### <<<<a href="https://team-si-sig.github.io/documentation/historicalmap/en/Training">Before : Training</a>
+#### <<<< [Before : Training](Training.md)
 # Classification
 ### What do you need ?
  - Your filtered image (got at step 1)
