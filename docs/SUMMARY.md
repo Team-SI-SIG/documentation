@@ -1,4 +1,6 @@
 - [Accueil](index.md)
+- [Comment contribuer ?](comment_contribuer.md)
+- [Tutoriels](tutoriels/index.md)
 - HistoricalMap
     - [Home](historicalmap/en/Home.md)
     - [Filtering](historicalmap/en/Filtering.md)
