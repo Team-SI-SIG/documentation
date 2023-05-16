@@ -14,5 +14,5 @@ Ce dépôt GitHub a été mis en place pour permettre la collaboration entre nos
 - [Notre 😺 IRC][2]
 
 
-  [1]: https://kiwiirc.com/nextclient/#irc://irc.freenode.net/#Team-SI-SIG
-  [2]: https://github.com/CEN-Nouvelle-Aquitaine
+  [1]: https://github.com/CEN-Nouvelle-Aquitaine
+  [2]: https://kiwiirc.com/nextclient/#irc://irc.freenode.net/#Team-SI-SIG
