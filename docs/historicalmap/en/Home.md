@@ -4,7 +4,8 @@
 
 You have three steps, the filtering, the training and the classifying.
 
-All you need to have is : 
+All you need to have is :
+
 - tif file
 - A shape file with your training cells
 

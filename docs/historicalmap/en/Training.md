@@ -2,6 +2,7 @@
 
 ## What do you need for the training ?
 You just need two things :
+
 - The **filtered image** got from the previous step
 - The **training shapefile** :
 You need to have a column (by default we call it 'Class') where you put the ID (and not the name) of your classification (1 for forest, 2 for water...).  

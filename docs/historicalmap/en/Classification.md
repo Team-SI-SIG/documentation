@@ -1,6 +1,7 @@
 #### <<<< [Before : Training](Training.md)
 # Classification
 ### What do you need ?
+
  - Your filtered image (got at step 1)
  - Your model (got at step 2)
 
